@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/bmwLogo.png",
+        "brand_name": "bmw"
+    },
+    {
+        "id": 2,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/ferrariLogo.png",
+        "brand_name": "ferrari"
+    },
+    {
+        "id": 3,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/volvo.png",
+        "brand_name": "volvo"
+    },
+    {
+        "id": 4,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/mercLogo.png",
+        "brand_name": "mercedes-benz"
+    },
+    {
+        "id": 5,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/audiLogo.png",
+        "brand_name": "audi"
+    },
+    {
+        "id": 6,
+        "brand_image": "https://pro-theme.com/html/sokolcov/auto-club/media/brands/honda.png",
+        "brand_name": "honda"
+    }
+]
